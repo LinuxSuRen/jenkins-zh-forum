@@ -1,0 +1,74 @@
+15:36:13.082621 read data file error: open /Users/mac/IdeaProjects/Github/studygolang/studygolang/data/max_online_num: no such file or directory
+15:36:13.109907 [::1 GET /static/js/libs/jquery-1.11.1.min.js 31520027-e723-4877-9de9-3c6c6f723aab "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 51.215987ms 9347] AdLogic FindAll PageAd error: Error 1146: Table 'studygolang.page_ad' doesn't exist
+
+15:36:25.680822 read data file error: open /Users/mac/IdeaProjects/Github/studygolang/studygolang/data/max_online_num: no such file or directory
+15:36:39.518426 read data file error: open /Users/mac/IdeaProjects/Github/studygolang/studygolang/data/max_online_num: no such file or directory
+15:36:39.934206 read data file error: open /Users/mac/IdeaProjects/Github/studygolang/studygolang/data/max_online_num: no such file or directory
+15:36:41.588222 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:41.621798 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:41.844682 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:42.105213 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:42.184534 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:42.435562 [::1 GET /users/active ab47181c-0103-4d9c-8641-7387c67bdfca "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 26.055042ms 41] FindDAURank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:36:51.833395 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:51.919359 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:51.926943 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.078188 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.079347 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.083515 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.092576 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.102771 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.107319 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.111879 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.121025 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.130982 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.143616 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.210324 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.232640 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.237478 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.250642 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:36:52.255186 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:06.832640 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:06.852563 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:06.873863 [::1 GET /users 94f52b58-8ab6-4f0e-956b-c9e00cc35eed "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 43.646965ms 8594] FindDAURank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:23.238831 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:23.257094 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:23.621775 [::1 GET /rank/view 32cc8345-91b9-4125-a9c1-7d823292541a "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 27.17695ms 103] FindDayRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:23.642302 [::1 GET /rank/view 1653448f-7fd0-4090-a129-3ca0dd097478 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 44.529365ms 102] FindWeekRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:24.782792 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:25.130063 [::1 GET /rank/view 68e1597c-84bf-4aad-a458-97925937e872 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 15.816088ms 95] FindDayRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:25.137500 [::1 GET /rank/view b0a40aa6-c1a7-4d05-a178-425b41aa75eb "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 19.558113ms 94] FindWeekRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:25.782067 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:26.102781 [::1 GET /rank/view aca81eb4-c5a3-4ec2-9fa4-c79e64c253f3 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 18.616751ms 101] FindWeekRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:26.104712 [::1 GET /rank/view 58a5d33f-e94a-4d30-af91-f6dbf9dc205a "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 24.511232ms 102] FindDayRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:26.577268 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:26.938937 [::1 GET /rank/view 6c5ca396-6ce1-4e99-936f-51246febb20b "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 32.839399ms 0] FindDayRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:26.938995 [::1 GET /rank/view e4727ce5-f099-4dc4-adc9-35b4822a8100 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 42.775184ms 0] FindWeekRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:27.198793 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:27.523157 [::1 GET /rank/view f11b9c96-0b83-4fe4-8d72-4278bda25e87 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 12.28581ms 0] FindWeekRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:27.539006 [::1 GET /rank/view 44b7db16-1f9f-4ef8-b61f-2e72acbc7dbe "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 35.046426ms 0] FindDayRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:27.698939 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:28.106496 [::1 GET /rank/view d1921011-24a8-4160-8340-f358a88c4c2e "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 18.34753ms 100] FindDayRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:28.106728 [::1 GET /rank/view 3c40cd40-79ca-4d62-b06c-6e6f214bc62c "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 10.348063ms 99] FindWeekRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:30.161384 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:32.441027 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:42.278610 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:47.348591 dau redis ZINCRBY error: dial tcp :0: connect: can't assign requested address
+15:37:47.717444 [::1 GET /rank/view d7c6828d-67ab-4fb8-9036-a99215432d81 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 50.100049ms 0] FindWeekRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+
+15:37:47.718763 [::1 GET /rank/view 6367f9a4-a655-4e68-84ae-3f2150e4c563 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 56.653898ms 0] FindDayRank ZREVRANGE error: dial tcp :0: connect: can't assign requested address
+

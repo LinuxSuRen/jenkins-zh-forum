@@ -1,0 +1,255 @@
+15:32:37.074911 [::1 GET / 4c0440df-f548-404a-8a45-085369047751 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 303 3.908194ms 0] query params: map[]
+
+15:32:37.093310 [::1 GET /install da0a8c0c-0aa9-409e-a073-4485ad325b81 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 7.265452ms 1244] query params: map[]
+
+15:32:37.169930 [::1 GET /static/css/install/install.css b8efe6f1-23ad-4298-b658-1a7a6377be48 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 7.405705ms 3386] query params: map[]
+
+15:32:37.170595 [::1 GET /static/img/logo1.png 6c5c73d1-f168-40ba-96bd-33ce7f683363 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 7.818018ms 17441] query params: map[]
+
+15:32:37.606397 [::1 GET /favicon.ico 970e528d-0a7b-4898-8b75-e24b63d85ba9 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 578.407µs 16958] query params: map[]
+
+15:32:40.048813 [::1 GET /install/setup-config b1ca0eb9-89ba-43bd-8cd7-2a92c3a035f1 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 554.063µs 2029] query params: map[step:[1]]
+
+15:35:02.517072 [::1 POST /install/setup-config 2a58238c-0406-4469-b5e8-b911618ab03a "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 27.795028ms 2993] query params: map[step:[2]]
+
+15:35:05.783942 [::1 POST /install/setup-config 136b16ce-5e8b-4868-9145-d1558a4c24db "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 6.654909ms 2993] query params: map[step:[2]]
+
+15:35:07.032468 [::1 POST /install/setup-config 94980b1f-905f-4714-b0b5-ebc59a61a516 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 7.620403ms 2993] query params: map[step:[2]]
+
+15:35:07.817024 [::1 POST /install/setup-config 1d91d25b-b478-491a-aa4a-78d6fc207189 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 5.776885ms 2993] query params: map[step:[2]]
+
+15:35:08.371646 [::1 POST /install/setup-config a8749d13-c873-4441-8573-c4a6cab9afe0 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 7.712722ms 2993] query params: map[step:[2]]
+
+15:35:09.799171 [::1 POST /install/setup-config dbedc016-51b7-493b-96ea-b794a9e26dd8 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 5.605763ms 2993] query params: map[step:[2]]
+
+15:35:11.486167 [::1 POST /install/setup-config 09edfadb-e75d-438f-8903-b88579bfab7c "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 5.652421ms 2993] query params: map[step:[2]]
+
+15:35:12.509062 [::1 POST /install/setup-config a4d74b70-72f3-4ca9-a3ee-584f8d5d8df2 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 4.599975ms 2993] query params: map[step:[2]]
+
+15:35:13.566650 [::1 POST /install/setup-config 74902c94-4077-4b09-9255-53749f83f795 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 5.831519ms 2993] query params: map[step:[2]]
+
+15:35:14.624950 [::1 POST /install/setup-config c9c1fdda-c0cc-4917-812f-1d58eafbbe6d "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 5.2436ms 2993] query params: map[step:[2]]
+
+15:35:52.615810 [::1 POST /install/setup-config e198851d-4d0b-440d-a7c5-5679a1a7cbdd "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 3.019601ms 2994] query params: map[step:[2]]
+
+15:35:54.086942 [::1 POST /install/setup-config af7c3b3e-8e75-4bb5-bf9e-bd7c7ba23078 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 2.95774ms 2994] query params: map[step:[2]]
+
+15:35:54.671225 [::1 POST /install/setup-config 06554fa4-450e-4c0b-8292-0cbab2846bdb "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 2.876154ms 2994] query params: map[step:[2]]
+
+15:35:58.689529 [::1 POST /install/setup-config 7fa4fcc0-e318-4098-a9cc-e91452553f0f "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 4.890538ms 2993] query params: map[step:[2]]
+
+15:36:11.389019 [::1 POST /install/setup-config 1de038cb-9f04-4824-884f-5706df1a1709 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 35.779234ms 569] query params: map[step:[2]]
+
+15:36:11.444138 [::1 GET /static/img/logo1.png 1c7c00ab-e3c8-4847-93c0-ae8a31629275 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 433.296µs 0] query params: map[]
+
+15:36:11.444591 [::1 GET /static/css/install/install.css 149bd90b-106d-43e7-b833-8618c032c44e "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 130.836µs 0] query params: map[]
+
+15:36:13.038390 [::1 GET /install/do b9df2b1a-d9f6-46db-9c0d-2361d1d8fd51 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 20.708434ms 2595] query params: map[]
+
+15:36:13.060720 [::1 GET /static/js/install/password-strength-meter.js 4c59a56c-b357-4b4d-a784-9cadf781adbb "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 584.28µs 374] query params: map[]
+
+15:36:13.109498 [::1 GET /static/js/libs/jquery-1.11.1.min.js 31520027-e723-4877-9de9-3c6c6f723aab "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 51.215987ms 9347] query params: map[]
+
+15:36:13.164472 [::1 GET /static/js/install/user-profile.js 5ccad573-b2c0-442c-8ef7-433c127e0ac2 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 1.209837ms 1537] query params: map[]
+
+15:36:25.634804 [::1 POST /install/do 38f97d7f-d46b-4f69-ada4-df1fdf249393 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 1.219173091s 1417] query params: map[step:[2]]
+
+15:36:25.685249 [::1 GET /static/js/libs/jquery-1.11.1.min.js afb6f96f-7969-412a-9afe-f2f635126bce "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 28.855066ms 9347] query params: map[]
+
+15:36:36.250574 [::1 GET /install/options 7b3ff3c2-9a39-4dd5-baf8-57583605c972 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 1.640628ms 3101] query params: map[]
+
+15:36:39.520564 [::1 GET /account/login 5f9f42c3-9939-4ad6-bbbd-d0ce967b1f4d "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 8.143503ms 11075] query params: map[]
+
+15:36:39.558989 [::1 GET /static/dist/css/sg_libs.min.css 756b58c7-f8e1-4230-a901-994641b11687 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 3.702136ms 4755] query params: map[v:[20180305]]
+
+15:36:39.558999 [::1 GET /static/dist/css/sg_styles.min.css 2374bed5-ade3-4b7e-a95e-e3f7eb34b130 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 7.726856ms 44310] query params: map[v:[20190414]]
+
+15:36:39.587021 [::1 GET /static/dist/js/sg_base.min.js fe0b38f6-971c-4777-96e3-a3d096518b90 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 947.943µs 19440] query params: map[v:[0.01]]
+
+15:36:39.600854 [::1 GET /static/dist/js/sg_libs.min.js db62c63c-6d25-4d4e-b785-2426d3db0326 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 13.990265ms 40708] query params: map[]
+
+15:36:39.614233 [::1 GET /static/dist/js/sidebar.min.js af17e802-feef-43f7-9a08-23ccbf6863de "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 3.669058ms 6674] query params: map[]
+
+15:36:39.722324 [::1 GET /static/img/new.png 874afae0-e76a-4998-83c7-7720ca4c7f71 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 550.409µs 279] query params: map[]
+
+15:36:39.742908 [::1 GET /static/img/top.png 7e12bb76-6cba-434f-8b71-1cbaa090c8df "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 678.689µs 2652] query params: map[]
+
+15:36:39.933964 user: 2130706433 had enter
+15:36:39.935313 BroadcastToOthersMessage message &{1 map[maxonline:1 online:1]}
+15:36:41.491462 [::1 POST /account/login 86d0e4da-7675-4f37-8d34-94dd560ea9c3 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 303 37.428118ms 0] query params: map[]
+
+15:36:41.581547 [::1 GET /install/do 19a13a48-0ded-461b-a4e1-995b341fa309 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 303 80.267696ms 0] query params: map[step:[2]]
+
+15:36:41.678928 [::1 GET / 36f570d6-67ad-4543-9a95-db5e538d4670 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 90.482738ms 13597] query params: map[]
+
+15:36:41.837297 [::1 GET /static/img/copper_48.png e59a771b-a5b5-46d2-a33a-42fb5956791b "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 86.257868ms 6424] query params: map[]
+
+15:36:42.091069 [::1 GET /static/img/loaders/loader7.gif d9595f49-c03c-4c2d-ba06-84fa3ea5cdaa "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.891365ms 8787] query params: map[]
+
+15:36:42.172968 [::1 GET /static/img/dock_shadow.png 46b28537-9c6e-4ce4-9d7c-77e9aa2ce974 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 19.985841ms 1030] query params: map[]
+
+15:36:42.318803 user: 1 had enter
+15:36:42.322010 BroadcastToOthersMessage message &{1 map[online:2 maxonline:2]}
+15:36:42.435454 [::1 GET /users/active ab47181c-0103-4d9c-8641-7387c67bdfca "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 26.055042ms 41] query params: map[limit:[9]]
+
+15:36:42.455440 [::1 GET /users/newest 98020c3e-7c59-4b1d-8997-d57bdf3726b5 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 43.325396ms 484] query params: map[limit:[9]]
+
+15:36:42.498724 [::1 GET /friend/links d53de419-0247-40b4-ba3e-081b26ba944d "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 58.668101ms 108] query params: map[]
+
+15:36:42.508749 [::1 GET /readings/recent 8a8f15ec-d2b6-435b-b571-fc63af8847db "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 78.27688ms 39] query params: map[limit:[1]]
+
+15:36:42.515363 [::1 GET /comments/recent fe3eaa8a-58e3-418e-b8e2-f8b9e7e1283c "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 106.064111ms 52] query params: map[limit:[5]]
+
+15:36:42.554350 [::1 GET /websites/stat 78cc4c32-80a0-4b9b-a7bc-f0893311bd50 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 131.977558ms 115] query params: map[]
+
+15:36:51.805130 [::1 GET /admin 601b6dfb-fa44-42bd-b481-a07a49d6c0e6 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 31.415883ms 2944] query params: map[]
+
+15:36:51.878879 [::1 GET /static/css/admin/revise.css 9d9abde1-e054-45fc-9619-d09543a5b68b "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 38.258873ms 1909] query params: map[]
+
+15:36:51.883211 [::1 GET /static/css/admin/style.default.css ded85b5b-6f49-416d-a1af-3dde6c282e1a "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 41.815473ms 122650] query params: map[]
+
+15:36:52.003985 [::1 GET /static/js/admin/jquery.cookie.js 59148107-b692-4180-ac2d-9dea67753f68 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 48.990295ms 1782] query params: map[]
+
+15:36:52.009246 [::1 GET /static/js/admin/jquery.uniform.min.js 18b419db-60ab-4a33-bc1c-070cba16e00b "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 51.2948ms 9323] query params: map[]
+
+15:36:52.039133 [::1 GET /static/js/admin/jquery-ui-timepicker-addon.js 255ce25f-69fd-4ebd-95d5-93d60b267064 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 79.986038ms 66614] query params: map[]
+
+15:36:52.042202 [::1 GET /static/js/admin/general.js 70bdeb00-2cea-4a74-bc46-daa2df19e9b2 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 76.715735ms 10235] query params: map[]
+
+15:36:52.060556 [::1 GET /static/js/admin/jquery.alerts.js 90d60bba-2197-4a9e-9bf3-c8ad017007fd "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 95.441917ms 7645] query params: map[]
+
+15:36:52.080679 [::1 GET /static/css/admin/jquery.alerts.css ea8d816a-28aa-45a0-b7c0-27218128ce2e "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 107.059057ms 2587] query params: map[]
+
+15:36:52.094194 [::1 GET /static/css/admin/jquery.ui.css c943c8f5-5be6-45e0-9c10-540bc0135333 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 70.478041ms 9405] query params: map[]
+
+15:36:52.109523 [::1 GET /static/css/admin/jqpagination.css bcccc1c0-f82c-4ce1-a41c-12b60a4fde21 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 61.857799ms 2433] query params: map[]
+
+15:36:52.120578 [::1 GET /static/css/admin/jquery.timepicker.css 001390fc-4a5c-465b-958e-8a40b9aea617 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 74.659715ms 522] query params: map[]
+
+15:36:52.129157 [::1 GET /static/css/admin/uniform.tp.css b70b0133-8296-4dc6-a26e-d8e42ed4b5e9 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 111.625838ms 11169] query params: map[]
+
+15:36:52.186665 [::1 GET /static/img/admin/line.ccc.png 966b1ffc-d648-4ed4-9563-14cbbf9240a7 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 18.498156ms 109] query params: map[]
+
+15:36:52.201504 [::1 GET /static/img/admin/menucollapsed.png 4c0f31f9-102d-4c55-b4ce-d00c3bb93046 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 29.021049ms 875] query params: map[]
+
+15:36:52.214168 [::1 GET /static/img/admin/topheaderbg.png 90102452-7b5c-41ca-99df-3f4bda7120fc "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 43.046382ms 4093] query params: map[]
+
+15:36:52.215492 [::1 GET /static/img/admin/userinfoarrow.png dab5a8c3-6952-4000-8f5d-622539ec2e5d "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 43.238831ms 207] query params: map[]
+
+15:36:52.240515 [::1 GET /static/img/admin/noise.white.png 69c2a37d-f2a7-4ccc-b16c-0e3ed8ee33f3 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 64.80931ms 7924] query params: map[]
+
+15:36:57.328253 user: 2130706433 client close
+15:36:57.328543 user: 2130706433 had leave
+15:36:57.328909 [::1 GET /ws 6175a1fd-a328-473c-9363-d5a3b1d3a36e "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 17.396110533s 0] query params: map[uid:[0]]
+
+15:36:57.328939 BroadcastAllUsersMessage message &{1 map[online:1]}
+15:37:06.816194 [::1 GET /user/polaris 901939f1-8cc8-4e45-8da3-54a1e0c39d98 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 303 32.17616ms 0] query params: map[]
+
+15:37:06.873755 [::1 GET /users 94f52b58-8ab6-4f0e-956b-c9e00cc35eed "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 43.646965ms 8594] query params: map[]
+
+15:37:23.221250 [::1 GET /resources 83af44f4-f4a7-4cad-965d-789b434098ec "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 303 13.791509ms 0] query params: map[]
+
+15:37:23.274715 [::1 GET /resources/cat/1 514a680a-4bb6-4b9b-b86f-2ca5116d53ea "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 45.460036ms 11158] query params: map[]
+
+15:37:23.621683 [::1 GET /rank/view 32cc8345-91b9-4125-a9c1-7d823292541a "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 27.17695ms 103] query params: map[objtype:[2] rank_type:[today] limit:[10]]
+
+15:37:23.642200 [::1 GET /rank/view 1653448f-7fd0-4090-a129-3ca0dd097478 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 44.529365ms 102] query params: map[objtype:[2] rank_type:[week] limit:[10]]
+
+15:37:23.649691 [::1 GET /topics/recent d60df6ed-931c-4038-9b18-e468a3f01a3c "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 59.789549ms 39] query params: map[limit:[10]]
+
+15:37:24.804068 [::1 GET /projects 77b81565-531d-4348-a9c0-83e2c93685be "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 40.345017ms 11191] query params: map[]
+
+15:37:25.129954 [::1 GET /rank/view 68e1597c-84bf-4aad-a458-97925937e872 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 15.816088ms 95] query params: map[objtype:[4] rank_type:[today] limit:[10]]
+
+15:37:25.135641 [::1 GET /rank/view b0a40aa6-c1a7-4d05-a178-425b41aa75eb "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 19.558113ms 94] query params: map[limit:[10] objtype:[4] rank_type:[week]]
+
+15:37:25.168844 [::1 GET /articles/recent bfb3226f-e7a9-4d7c-86b6-d566d611c512 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 48.818086ms 39] query params: map[limit:[10]]
+
+15:37:25.811178 [::1 GET /articles 33a9a92a-be80-4fac-a585-16df7095584f "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 48.524246ms 10555] query params: map[]
+
+15:37:26.102698 [::1 GET /rank/view aca81eb4-c5a3-4ec2-9fa4-c79e64c253f3 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 18.616751ms 101] query params: map[rank_type:[week] limit:[10] objtype:[1]]
+
+15:37:26.104592 [::1 GET /rank/view 58a5d33f-e94a-4d30-af91-f6dbf9dc205a "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 24.511232ms 102] query params: map[rank_type:[today] limit:[10] objtype:[1]]
+
+15:37:26.584643 [::1 GET /projects b7fb1b4c-0e86-47d1-90cd-e7091f49e78e "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 32.156694ms 11191] query params: map[]
+
+15:37:26.920411 [::1 GET /rank/view 6c5ca396-6ce1-4e99-936f-51246febb20b "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 32.839399ms 0] query params: map[limit:[10] objtype:[4] rank_type:[today]]
+
+15:37:26.938879 [::1 GET /rank/view e4727ce5-f099-4dc4-adc9-35b4822a8100 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 42.775184ms 0] query params: map[rank_type:[week] limit:[10] objtype:[4]]
+
+15:37:26.961515 [::1 GET /articles/recent 4c983be4-166d-4b94-9851-65dbe44debc0 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 44.66528ms 0] query params: map[limit:[10]]
+
+15:37:27.211686 [::1 GET /articles cbd7a6f4-87a2-47ba-829f-86e50d1c0410 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 43.559198ms 10555] query params: map[]
+
+15:37:27.523042 [::1 GET /rank/view f11b9c96-0b83-4fe4-8d72-4278bda25e87 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 12.28581ms 0] query params: map[limit:[10] objtype:[1] rank_type:[week]]
+
+15:37:27.538911 [::1 GET /rank/view 44b7db16-1f9f-4ef8-b61f-2e72acbc7dbe "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 35.046426ms 0] query params: map[limit:[10] objtype:[1] rank_type:[today]]
+
+15:37:27.725867 [::1 GET /topics 43a33695-b5c0-4368-9cd3-c2bb6d104899 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 49.812036ms 11847] query params: map[]
+
+15:37:28.065236 [::1 GET /nodes/hot 6a4f7cbc-ba85-4914-9e17-afbe222a2e72 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 19.696139ms 39] query params: map[limit:[10]]
+
+15:37:28.085159 [::1 GET /rank/view d1921011-24a8-4160-8340-f358a88c4c2e "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 18.34753ms 100] query params: map[limit:[10] objtype:[0] rank_type:[today]]
+
+15:37:28.106433 [::1 GET /websites/stat a52b518a-a34c-4b03-bc25-dfba0c8a58ea "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 38.860991ms 0] query params: map[]
+
+15:37:28.106613 [::1 GET /rank/view 3c40cd40-79ca-4d62-b06c-6e6f214bc62c "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 10.348063ms 99] query params: map[rank_type:[week] limit:[10] objtype:[0]]
+
+15:37:30.173923 [::1 GET /readings 4cf90fa8-2fc4-470e-9978-eb122c6e38ab "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 31.246317ms 10219] query params: map[]
+
+15:37:30.509701 [::1 GET /topics/recent 52e1ab72-6217-4d1a-b917-a11df69510ef "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 40.213179ms 0] query params: map[limit:[10]]
+
+15:37:30.531581 [::1 GET /articles/recent ae2b2e76-9a4d-4d1c-b29d-8c8b6337fa1f "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 59.505756ms 0] query params: map[limit:[10]]
+
+15:37:32.446777 [::1 GET /readings ee4e3f0c-f15a-4e28-9c1b-97b271be8691 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 32.996369ms 10223] query params: map[rtype:[1]]
+
+15:37:32.805756 [::1 GET /topics/recent b27eddde-5f42-457f-af01-4714cb2cb920 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 41.891279ms 0] query params: map[limit:[10]]
+
+15:37:32.812539 [::1 GET /articles/recent 8489f7e8-3499-4d05-bdbe-9d3129590ba2 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 46.000093ms 0] query params: map[limit:[10]]
+
+15:37:42.278315 [::1 GET /readings e9068dae-bba7-42a2-8f08-0f7038ac190f "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 32.579299ms 10218] query params: map[]
+
+15:37:42.630813 [::1 GET /topics/recent 06f90808-e214-4814-bbfd-6daebc38f211 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 34.400581ms 0] query params: map[limit:[10]]
+
+15:37:42.657128 [::1 GET /articles/recent e4f057ee-cd72-46f9-a12d-9a989df3910c "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 58.980011ms 0] query params: map[limit:[10]]
+
+15:37:47.365116 [::1 GET /topics d88d8007-a04c-4587-8929-bfad0f0c0546 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 45.933022ms 11847] query params: map[]
+
+15:37:47.686122 [::1 GET /nodes/hot d9cf8ec1-2927-40f0-87d0-8a6d51b6f741 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 29.756732ms 0] query params: map[limit:[10]]
+
+15:37:47.717339 [::1 GET /rank/view d7c6828d-67ab-4fb8-9036-a99215432d81 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 50.100049ms 0] query params: map[limit:[10] objtype:[0] rank_type:[week]]
+
+15:37:47.718653 [::1 GET /rank/view 6367f9a4-a655-4e68-84ae-3f2150e4c563 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 56.653898ms 0] query params: map[limit:[10] objtype:[0] rank_type:[today]]
+
+15:37:47.730690 [::1 GET /websites/stat 786b0ccb-6615-4fb6-b8a8-7b29540df596 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 304 72.644922ms 0] query params: map[]
+
+15:37:52.240765 user: 1 client close
+15:37:52.241220 [::1 GET /ws 0ce7e08b-567b-48d9-a1a5-d199852094f1 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 45.017877692s 0] query params: map[uid:[1]]
+
+15:37:53.506401 user: 1 client close
+15:37:53.506829 [::1 GET /ws ca1a965e-ca41-4228-80df-baa01261356d "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.013367271s 0] query params: map[uid:[1]]
+
+15:37:55.059709 user: 1 client close
+15:37:55.060160 [::1 GET /ws 31b33345-eee5-4e3d-bdea-b3304ce96080 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.01827199s 0] query params: map[uid:[1]]
+
+15:37:56.029802 user: 1 client close
+15:37:56.030055 [::1 GET /ws e1f8aea9-4d45-41bb-bc16-6c8259e2c456 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.015076881s 0] query params: map[uid:[1]]
+
+15:37:56.821633 user: 1 client close
+15:37:56.821948 [::1 GET /ws 10c2611a-c076-4c38-83a9-87289a9f8a6f "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.02178865s 0] query params: map[uid:[1]]
+
+15:37:57.455263 user: 1 client close
+15:37:57.455547 [::1 GET /ws 69654f4f-ed2c-4490-b689-ffe08a9705b1 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.016044494s 0] query params: map[uid:[1]]
+
+15:37:57.958805 user: 1 client close
+15:37:57.959159 [::1 GET /ws 505a8513-921c-4bb2-b094-d8627c6cad8e "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.015893417s 0] query params: map[uid:[1]]
+
+15:38:00.418617 user: 1 client close
+15:38:00.419038 [::1 GET /ws 0524de10-172b-433a-9670-e61626e18a8c "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.021669403s 0] query params: map[uid:[1]]
+
+15:38:02.735721 user: 1 client close
+15:38:02.736103 [::1 GET /ws 51dbd7f8-2a4e-4f38-ac18-8236c57d1278 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.015288897s 0] query params: map[uid:[1]]
+
+15:38:12.524944 user: 1 client close
+15:38:12.526335 [::1 GET /ws c20c5135-c244-471b-ac60-75f2ec0649b1 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" 200 30.016383397s 0] query params: map[uid:[1]]
+
